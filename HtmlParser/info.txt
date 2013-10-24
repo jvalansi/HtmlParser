@@ -1,0 +1,4 @@
+"Day & Time & Location:","First Lecture:","No. of planned sessions:",
+"Thursday, 1115-1300, Belfer, Botnar Auditorium","31/10/2013","12",
+"Day & Time & Location:","First Lecture:","No. of planned sessions:",
+"Thursday, 1115-1300, Belfer, Botnar Auditorium","31/10/2013","12",
